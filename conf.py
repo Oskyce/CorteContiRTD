@@ -55,6 +55,7 @@ source_suffix = '.rst'
 
 # The master toctree document.
 # master_doc = '00_INDICE'
+master_doc = 'index'
 
 # General information about the project.
 project = settings_project_name
