@@ -1,0 +1,11 @@
+**Premessa**
+===============
+La quarta rivoluzione industriale (:term:`Industry 4.0`) consente oggi, tanto a singoli utenti quanto ad organizzazioni complesse come le pubbliche amministrazioni, una interazione attraverso dispositivi sempre più agili ed “intelligenti” (:term:`smart`), con la possibilità di offrire o fruire di servizi integrati, efficienti e trasparenti, tanto nel :term:`back office` quanto nel :term:`front office`.
+
+La trasformazione digitale in atto, oltre ad essere un elemento centrale della strategia delle moderne organizzazioni, è divenuta un fattore qualificante dell’agire quotidiano delle imprese e dei lavoratori, delle istituzioni e dei cittadini. Parallelamente, il dibattito pubblico sul tema va assumendo profili sempre più specialistici (:term:`Cyber security`, :term:`big data`,  :term:`cloud<Cloud Computing>`, :term:`predictive analytics` , :term:`internet of things`), approfondendo gli aspetti positivi ma anche i rischi connessi alla pervasività del digitale.
+
+In questo scenario non può che collocarsi attivamente anche la Corte dei Conti, continuando a promuovere e a perfezionare l’utilizzo delle tecnologie dell'informazione e della comunicazione, a beneficio della semplificazione e della digitalizzazione dei processi, della condivisione delle informazioni e della valorizzazione delle competenze, nonché ad apprestare le misure idonee a scongiurare i pericoli insiti in un utilizzo non corretto delle risorse informatiche. 
+
+A tal fine, le “Linee guida” intendono costituire uno strumento operativo di agevole consultazione, aggiornabile almeno con cadenza semestrale per meglio corrispondere alla velocità dell’evoluzione tecnologica e alle mutevoli esigenze degli utenti.
+
+..
