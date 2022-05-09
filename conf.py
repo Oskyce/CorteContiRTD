@@ -20,7 +20,7 @@
 settings_project_name = 'LINEE GUIDA per utilizzo delle Risorse informatiche' 
 settings_author = 'DGSIA CUS' 
 settings_editor_name = 'DGSIA CUS' 
-settings_copyright_year = 'Maggio 2022'
+settings_copyright_year = 'maggio 2022' 
 settings_doc_version = '1' 
 settings_doc_release = '1.0' 
 settings_basename = 'LG_URI' 
