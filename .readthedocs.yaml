@@ -10,8 +10,3 @@ formats:
   - pdf
   - epub  
   - htmlzip
-python:
-  # Install our python package before building the docs
-  install:
-    - method: pip
-      path: .
