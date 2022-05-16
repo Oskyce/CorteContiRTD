@@ -1,5 +1,5 @@
 ****************************************
-**5. Software**
+**6. Software**
 ****************************************
 DGSIA/CUS predispone le configurazioni standard (ad esempio: sistema operativo ed estensioni, antivirus, programmi per la redazione di documenti e fogli elettronici, posta elettronica); fornisce altresì la connessione alla rete.
 I dipendenti possono procedere autonomamente:

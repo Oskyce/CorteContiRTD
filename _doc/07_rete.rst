@@ -1,5 +1,5 @@
 ****************************************
-**6. Rete**
+**7. Rete**
 ****************************************
 Corte dei conti è dotata di una infrastruttura di rete che consente l’accesso ai servizi erogati dall’Istituto e alla rete Internet. 
 

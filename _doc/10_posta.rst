@@ -1,5 +1,5 @@
 ****************************************
-**9. Servizi di posta elettronica**
+**10. Servizi di posta elettronica**
 ****************************************
 I servizi di posta elettronica sono regolati dalle apposite Circolari adottate nel tempo dal Segretario Generale. Si richiama l’attenzione, in particolare, sulla necessità di distinguere, nell’indirizzamento delle comunicazioni, quelle rivolte personalmente al destinatario rispetto a quelle destinate all’organo o all’ufficio, che devono essere inviate anche alle pertinenti caselle istituzionali e alle competenti segreterie per la conseguente trattazione.
 
