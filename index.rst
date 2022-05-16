@@ -1,7 +1,7 @@
 Linee guida per utilizzo delle risorse informatiche
 ====================================================
 DGSIA/Gruppo di lavoro del Centro Unico Servizi - CUS 
-Vers. 2 – 1.2019
+Vers. 2 – 1.2022
 
 .. toctree::
    :maxdepth: 4
@@ -14,17 +14,9 @@ Vers. 2 – 1.2019
    _doc/04_dispositivi
    _doc/05_software
    _doc/06_rete
-   _doc/07_internet
-   _doc/08_cloud
-   _doc/09_posta
-   _doc/A0_documentale
-   _doc/A1_tutela
-   _doc/A2_decorrenza
-
-.. contents::
-   :local:   
-   
-   _doc/09_posta
+		_doc/07_internet
+		_doc/08_cloud
+		_doc/09_posta
    _doc/A0_documentale
    _doc/A1_tutela
    _doc/A2_decorrenza
