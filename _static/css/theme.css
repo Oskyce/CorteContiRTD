@@ -118,7 +118,7 @@ ul, ol, dl {
 }
 
 li {
-  list-style: inside;
+  list-style: none;
 }
 
 dd {
