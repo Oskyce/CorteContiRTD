@@ -129,7 +129,7 @@ img {
   border: 0;
   -ms-interpolation-mode: bicubic;
   vertical-align: middle;
-  max-width: 50%;
+  max-width: 100%;
 }
 
 svg:not(:root) {
@@ -4639,7 +4639,7 @@ code.code-large, .rst-content tt.code-large {
 }
 
 .wy-plain-list-disc, .rst-content .section ul, .rst-content .toctree-wrapper ul, article ul {
-  list-style: inside;
+  list-style: disc;
   line-height: 24px;
   margin-bottom: 24px;
 }
