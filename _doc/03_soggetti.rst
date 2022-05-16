@@ -10,6 +10,7 @@ I soggetti qui considerati sono:
 ..
    
 Le risorse informatiche istituzionali qui considerate comprendono:
+
 - i dispositivi informatici;
 - i *software*;
 - la rete della Corte;
