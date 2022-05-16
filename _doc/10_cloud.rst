@@ -10,7 +10,7 @@ Fra i principali strumenti attualmente disponibili si evidenziano i seguenti.
 ..
 
 10.1.1 SharePoint Online
-^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 Si tratta di una modalità evoluta di gestione di documenti istituzionali, alternativa rispetto alle tradizionali cartelle condivise su *File Server*, con il vantaggio della gestione automatica delle versioni.
 
 Ogni Ufficio può richiedere a :term:`DGSIA/CUS` l'apertura di un sito da personalizzare e gestire in autonomia, con possibilità di visibilità selettiva (parziale o totale) per gli utenti interni o esterni. La richiesta è attivabile da `Mappa servizi <https://mappaservizi.corteconti.it/>`_ digitando nel campo di ricerca la voce *"Creazione Area di Lavoro -Team Site- su SharePoint online"*.
