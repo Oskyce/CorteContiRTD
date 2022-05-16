@@ -14,10 +14,11 @@ Vers. 2 – 1.2022
    _doc/04_dispositivi
    _doc/05_periferiche
    _doc/06_software
-   _doc/07_rete
-   _doc/08_internet
-   _doc/09_cloud
-   _doc/10_posta
+   _doc/07_gestident
+   _doc/08_rete
+   _doc/09_internet
+   _doc/10_cloud
+   _doc/11_posta
    _doc/A0_documentale
    _doc/A1_tutela
    _doc/A2_decorrenza
