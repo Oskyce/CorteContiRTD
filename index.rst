@@ -14,9 +14,9 @@ Vers. 2 – 1.2022
    _doc/04_dispositivi
    _doc/05_software
    _doc/06_rete
-		_doc/07_internet
-		_doc/08_cloud
-		_doc/09_posta
+   _doc/07_internet
+   _doc/08_cloud
+   _doc/09_posta
    _doc/A0_documentale
    _doc/A1_tutela
    _doc/A2_decorrenza
