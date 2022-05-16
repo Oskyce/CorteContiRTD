@@ -113,7 +113,7 @@ sub {
 ul, ol, dl {
   margin: 0;
   padding: 0;
-  list-style: inside;
+  list-style: none;
   list-style-image: none;
 }
 
