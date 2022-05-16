@@ -1,22 +1,15 @@
 ****************************************
-**5. Software**
+**5. Periferiche**
 ****************************************
-DGSIA/CUS predispone le configurazioni standard (ad esempio: sistema operativo ed estensioni, antivirus, programmi per la redazione di documenti e fogli elettronici, posta elettronica); fornisce altresì la connessione alla rete.
-I dipendenti possono procedere autonomamente:
+ 
 
-- all’installazione di programmi preselezionati da DGSIA/CUS, mediante l’apposito portale “Catalogo applicazioni”;
-- all’installazione di ulteriori programmi dal portale "Microsoft Store".
-  
-..
-   
-Entrambi i portali sono raggiungibili digitando il relativo nome nel campo di ricerca *“Cerca in Windows”*, ovvero cliccando sul simbolo rappresentante la lente di ingrandimento, presenti nella barra delle applicazioni.
+Come anticipato già nel 2017, con la Circolare n. 38 emanata dal Segretario Generale in data 3 agosto 2017, è attivo in Corte dei conti un sistema di gestione centralizzato di Printing management.  
 
-Ogni componente utilizzato dai dipendenti di Corte è collegato ad una :term:`licenza d’uso` che ne consente la fruizione nei limiti e termini connessi al contesto di utilizzo.
+Il sistema consente a tutti gli utenti della Corte di utilizzare qualsiasi Multifunzione collegata in rete, in qualunque sede, per effettuare stampe, copie o scansioni. 
 
-Su indicazione dei responsabili degli uffici, in relazione allo svolgimento di specifiche attività lavorative, alcune postazioni potranno essere dotate di programmi aggiuntivi.
+Non sarà quindi necessario scegliere in anticipo la stampante da utilizzare. Come riportato nel Tutorial Printing Management, disponibile su Mappa Servizi, se si intende ritirare la propria stampa da una stampante di un brand è opportuno stampare su una coda virtuale che faccia riferimento a tale brand, mentre se non si è sicuri su quale stampante si andrà a ritirare la stampa, è necessario inviare la stampa sulla coda virtuale “FollowYou”. 
 
-Le postazioni di lavoro fisse e mobili sono connesse al :term:`dominio` di Corte. Per le postazioni portatili è possibile scegliere un'installazione fuori dal :term:`dominio` di Corte; in tal caso, l'accesso alle risorse interne dovrà essere effettuato attraverso :term:`strumenti di virtualizzazione`.
+Le suddette stampe resteranno disponibili fino alla loro stampa, ma, se non espressamente salvate, verranno automaticamente cancellate dopo 8 ore. 
 
-Le impostazioni dei P.C. avvengono, di regola, con il supporto degli :term:`Amministratori di Sistema` (AdS) sulla base di criteri e profili definiti, compatibili con le politiche di sicurezza adottate dalla DGSIA, in conformità della normativa europea e nazionale vigente in materia.
-
+Per procedere alla stampa (Print) o al suddetto salvataggio (Print & Save) occorrerà recarsi presso una qualsiasi delle stampanti del “Progetto Printing Management ed autenticarsi utilizzando il proprio badge.  
 ..
