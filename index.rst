@@ -6,6 +6,8 @@ Vers. 2 – 1.2019
 .. toctree::
    :maxdepth: 4
    :caption: Indice:
+.. contents::
+   :local:
    
    _doc/00_premessa
    _doc/01_finalità
