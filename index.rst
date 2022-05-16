@@ -6,9 +6,7 @@ Vers. 2 – 1.2019
 .. toctree::
    :maxdepth: 4
    :caption: Indice:
-.. contents::
-   :local:
-   
+
    _doc/00_premessa
    _doc/01_finalità
    _doc/02_principi
@@ -22,7 +20,15 @@ Vers. 2 – 1.2019
    _doc/A0_documentale
    _doc/A1_tutela
    _doc/A2_decorrenza
+
+.. contents::
+   :local:   
    
+   _doc/09_posta
+   _doc/A0_documentale
+   _doc/A1_tutela
+   _doc/A2_decorrenza
+
 **Allegati**
 
 .. toctree::
