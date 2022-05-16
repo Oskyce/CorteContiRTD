@@ -15,6 +15,7 @@ Le risorse informatiche istituzionali qui considerate comprendono:
 - i *software*;
 - la rete della Corte;
 - Internet;
+
 *  i servizi in cloud;
 *  i servizi di posta elettronica;
 *  i documenti informatici;
