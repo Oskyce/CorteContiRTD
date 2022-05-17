@@ -15,7 +15,7 @@ Essa è orientata ai seguenti *principi* cardine:
 
 In attuazione dei richiamati principi, la DGSIA:
 
-1. persegue il continuo miglioramento della qualità dei servizi offerti:
+2. persegue il continuo miglioramento della qualità dei servizi offerti:
 2. valorizza le risorse esistenti ed integra sistemi e infrastrutture ICT al servizio dei compiti istituzionali, promuovendo e sviluppando programmi di trasformazione digitale;
 3. attua e promuove buone pratiche lavorative per la diffusione della semplificazione e digitalizzazione dei processi amministrativi;
 4. esplora e realizza modalità di collaborazione e condivisione di sinergie e di intenti con altre amministrazioni pubbliche, attraverso l’utilizzo comune, partecipato ed ottimizzato di infrastrutture ICT in forma di network (es. Idea@PA per Cnel e Avvocatura dello Stato), anche in relazione al contenimento degli oneri;
