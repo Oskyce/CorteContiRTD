@@ -5,8 +5,9 @@ La gestione delle risorse informatiche è svolta dalla *Direzione Generale dei S
 
 Essa è orientata ai seguenti *principi* cardine:
 
-\- \ la razionalizzazione dei *data center*;
-\- \ la completa trasformazione digitale dei processi di lavoro e dei servizi (*digital first*);
+-  la razionalizzazione dei *data center*;
+-  la completa trasformazione digitale dei processi di lavoro e dei servizi (*digital first*);
+
 \- \ la diffusione di strumenti di condivisione e collaborazione e la fruizione di risorse - informatiche *"on demand"* via Internet (*cloud first*);
 \- \ l'utilizzo consapevole, appropriato, responsabile, corretto e lecito delle risorse informatiche (etica digitale);
 \- \ lo stile di *management agile*, dinamico ed evoluto.
